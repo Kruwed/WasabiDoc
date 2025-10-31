@@ -21,7 +21,7 @@ Your wallet's privacy progress % will increase.
 
 ### How do I generate a new wallet?
 
-You can [generate as many new wallets](/using-wasabi/WalletGeneration.md) as you'd like, for no extra cost and without asking for permission.
+You can [generate as many new wallets](/using-wasabi/WalletGeneration.md) as you'd like.
 
 Click the `Add Wallet` button in the bottom left corner of the main view or in the searchbar.
 
